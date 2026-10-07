@@ -1,0 +1,6 @@
+ email: samuel.nery.silva@gmail.com, senha: 123, site: thanos
+ email: samuel.nery.silva@gmail.com, senha: 4343, site: aaah
+ email: samuel.nery.silva@gmail.com, senha: gaylord, site: haha
+ email: samuel.nery.silva@gmail.com, senha: face4567, site: facebook.com
+ email: samuel.nery.silva@gmail.com, senha: , site: 
+ 
